@@ -1,0 +1,32 @@
+
+.footer{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+.footer_wrapper{
+    display: flex;
+    min-width: 680px;
+    justify-content: space-between;
+}
+a{
+    text-decoration: none;
+    color:rgb(7, 77, 133);
+    font-size: 30px ;
+    font-weight: bold;
+    padding: 40px;
+    border-radius:35px;
+    display: flex;
+    flex-direction: column;
+    height: 100px;
+    justify-content: space-around;
+    align-items:center;
+    margin-bottom: 30px;
+}
+a:hover{
+    background-color:rgba(234, 24, 24, 0.606);
+}
+img{
+    width:70px;
+}

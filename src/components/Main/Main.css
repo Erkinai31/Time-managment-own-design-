@@ -1,0 +1,24 @@
+
+  h1{
+    color:rgba(2, 38, 53, 0.944);
+    text-shadow:
+        0 0 20px rgb(43, 141, 217),
+        0 0 30px rgb(40, 102, 209),
+        0 0 80px rgb(232, 236, 239);
+    font-style:italic; 
+    text-align: center;
+    font-size: 50px;
+    padding-top:20px;
+  }
+  .main{
+    min-height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 750px;
+    margin: 115px auto;
+    border-radius:25px;
+    background-color:rgb(253, 253, 253);
+  }
+  
+  

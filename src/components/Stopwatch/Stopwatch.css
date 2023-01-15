@@ -1,0 +1,36 @@
+.content{
+    display: flex;
+    flex-direction: column;
+    justify-content:center ;
+    height: 400px;
+    align-items:center;
+}
+.container{
+    text-align: center;
+    background-color:rgba(241, 242, 245, 0.956);
+    border:10px solid #090909;
+    border-radius: 125px;
+    height: 150px;
+    width: 270px;
+    margin:0 auto;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 25px;
+}
+
+ button{
+    width: 150px;
+    height: 60px;
+    background-color:rgb(7, 41, 191);
+    margin: 15px;
+    border-radius: 20px;
+    color:rgb(245, 245, 250);
+    font-size: 15px;
+    font-weight: bold;
+}
+.time{
+    font-size: 100px;
+    color:rgb(9, 9, 9);
+}
